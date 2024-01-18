@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/AdminXacNhan.jsp=UTF-8
+encoding//WebContent/dangnhap.jsp=UTF-8
+encoding//WebContent/giohang.jsp=UTF-8
+encoding//WebContent/menu.jsp=UTF-8
+encoding//src/Controller/dangkyController.java=UTF-8
+encoding//src/Controller/dangnhapController.java=UTF-8
+encoding//src/dao/khachhangdao.java=UTF-8
+encoding//src/dao/loaidao.java=UTF-8
+encoding//src/dao/sachdao.java=UTF-8
